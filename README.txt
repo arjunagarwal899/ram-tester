@@ -1,0 +1,1 @@
+Please run the simulation for 20 seconds. Due to delays in funstions, it takes on an average 16 seconds for the circuit to give a result
